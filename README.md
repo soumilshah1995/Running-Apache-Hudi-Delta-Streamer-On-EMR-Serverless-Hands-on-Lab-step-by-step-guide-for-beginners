@@ -1,5 +1,8 @@
 Running Apache Hudi Delta Streamer On EMR Serverless Hands on Lab step by step guide for beginners
 
+![1](https://user-images.githubusercontent.com/39345855/229940404-f3efeaae-6e5b-446b-a229-b1fb86e4ea2b.JPG)
+
+## Video based guide 
 
 
 # Steps 
