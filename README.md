@@ -7,7 +7,7 @@ Running Apache Hudi Delta Streamer On EMR Serverless Hands on Lab step by step g
 * https://drive.google.com/drive/folders/1BwNEK649hErbsWcYLZhqCWnaXFX3mIsg?usp=share_link
 
 
-# Step 2: Start EMR Serverless Cluster 
+## Step 2: Start EMR Serverless Cluster 
 
 
 
