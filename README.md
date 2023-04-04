@@ -3,7 +3,8 @@ Running Apache Hudi Delta Streamer On EMR Serverless Hands on Lab step by step g
 ![1](https://user-images.githubusercontent.com/39345855/229940404-f3efeaae-6e5b-446b-a229-b1fb86e4ea2b.JPG)
 
 ## Video based guide 
-
+ * https://www.youtube.com/watch?v=jvbHUl9A4tQ&feature=youtu.be
+ 
 
 # Steps 
 ## Step 1: Download the sample Parquet files from the links 
