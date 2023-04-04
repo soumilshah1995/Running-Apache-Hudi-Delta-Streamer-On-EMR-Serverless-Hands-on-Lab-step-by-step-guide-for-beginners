@@ -16,6 +16,8 @@ Running Apache Hudi Delta Streamer On EMR Serverless Hands on Lab step by step g
 ![image](https://user-images.githubusercontent.com/39345855/229940131-836414cf-a85f-4b9f-b1d6-c36115d335c2.png)
 
 # Step 3 Run Python Code to submit Job 
+* Please change nd edit the varibales 
+
 ```
 try:
     import json
@@ -117,3 +119,8 @@ def lambda_handler_test_emr(event, context):
 lambda_handler_test_emr(context=None, event=None)
 
 ```
+
+### Adhoc Query 
+![image](https://user-images.githubusercontent.com/39345855/229940357-49106e3a-2d5c-4f53-9ce2-9f45759d9dea.png)
+
+
